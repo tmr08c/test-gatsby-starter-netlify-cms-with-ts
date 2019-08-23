@@ -8,4 +8,8 @@ featuredimage: /img/bookshelf.jpg
 tags:
   - announcements
 ---
-We are now being featured in libraries.
+![](/img/bookshelf.jpg)
+
+
+
+We are now being featured in libraries in your area.
